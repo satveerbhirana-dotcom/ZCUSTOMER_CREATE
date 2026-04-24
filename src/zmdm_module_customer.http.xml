@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_HTTP" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HTTPID>ZMDM_MODULE_CUSTOMER</HTTPID>
+   <HTTPTEXT>
+    <ID>ZMDM_MODULE_CUSTOMER</ID>
+    <VERSION>A</VERSION>
+    <LANG>E</LANG>
+    <SHORTTEXT>HTTP SERVICE FOR MDM MODULE CUSTOMER</SHORTTEXT>
+   </HTTPTEXT>
+   <HTTPHDL>
+    <UCONSERVHANDLER>
+     <ID>ZMDM_MODULE_CUSTOMER</ID>
+     <VERSION>A</VERSION>
+     <SERVICEORDER>01</SERVICEORDER>
+     <SERVICEHANDLER>ZCL_MDM_MODULE_CUSTOMER</SERVICEHANDLER>
+    </UCONSERVHANDLER>
+   </HTTPHDL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
